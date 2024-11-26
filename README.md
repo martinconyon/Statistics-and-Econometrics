@@ -11,8 +11,11 @@ This document provides an introduction to instrumental variables (IV) estimation
 ### Instrumental Variables Part 2
 Building on the basics from Part 1, this document delves into deeper theoretical aspects of instrumental variables. It covers the conditions necessary for causal identification, demonstrates the Wald estimator, and discusses issues such as weak instruments and asymptotic bias. The document also features applied examples, including the use of birth quarter as an instrument for education.
 
+### And so on
+And so on...
+
 ## Acknowledgments
-These notes have benefited from discussions and feedback from colleagues at several esteemed institutions:
+These notes are 'as is', hopefully there are not too many errors.  These notes have benefited from discussions and feedback from colleagues at several esteemed institutions:
 
 - **Lancaster University**: Bailrigg, Lancaster LA1 4YW, United Kingdom
 - **ESSEC Business School**: Avenue Bernard Hirsch, 95021 Cergy, France
